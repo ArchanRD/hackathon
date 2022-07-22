@@ -14,7 +14,7 @@
     border-radius: 16px;
     margin: 50px auto;
     display: flex;
-    padding: 10px 0 10px 10px;
+    padding: 15px
 }
 
 .card .card-img{
@@ -25,7 +25,7 @@
 }
 
 .card .card-details{
-    margin: 0 18px;
+   margin-left: 18px;
 }
 
 .card .card-details h1{
@@ -36,7 +36,7 @@
 
 .card .card-details p{
     font-weight: 500;
-    margin: 8px auto;
+    margin: 10px auto;
     font-size: 15px;
 }
 
